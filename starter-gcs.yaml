@@ -42,7 +42,7 @@ stringData:
     -----BEGIN RSA PRIVATE KEY-----
     <>
     -----END RSA PRIVATE KEY-----
-  appid: "211296"
+  appid: "<>"
 ---
 apiVersion: v1
 kind: Secret
